@@ -1,2 +1,2 @@
 jwt:
-  secret: "fewbiuebeot5324980hbhgsd0uub9gpkklnqbp4214989oub926t32be0gbdsn"
+  secret: "{cipher}55eb3303cd3f2685bb985aa2cd3f38897af2e7f3cfa6b144045752b578cfc648a0569f1e2fc26fdaa9fba0740992b280cd6db2cbc638ff8cd3d986cfa3735a3eb9f456cfebd211740783aef020b1ce98"
