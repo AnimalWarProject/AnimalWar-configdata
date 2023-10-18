@@ -1,2 +1,0 @@
-# AnimalWar-configdata
-config data
